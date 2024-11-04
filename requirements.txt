@@ -1,0 +1,11 @@
+flask
+scikit-learn
+pandas
+numpy
+textblob
+transformers
+torch
+nltk
+requests
+beautifulsoup4
+google
